@@ -4,5 +4,10 @@ public class Main {
         dog.name="Cinnamon";
         dog.age=5;
         dog.breed="Labrador";
+
+        Cat cat=new Cat();
+        cat.name="Tangy";
+        cat.age=2;
+        //cat.breed=American shorthair;
     }
 }
