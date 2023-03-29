@@ -8,6 +8,6 @@ public class Main {
         Cat cat=new Cat();
         cat.name="Tangy";
         cat.age=2;
-        //cat.breed=American shorthair;
+        cat.breed="American shorthair";
     }
 }
